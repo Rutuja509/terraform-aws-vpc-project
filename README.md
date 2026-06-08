@@ -36,6 +36,8 @@ VPC → Subnet → Internet Gateway → Route Table → Security Group → EC2
 
 ## AWS Console Output
 
-![EC2 Instance Created](Screenshot/ec2-instance-created.png)
+## AWS Console Output
 
-![EC2 Instance Details](Screenshot/ec2-instance-details.png)
+![Instance Machine](./Screenshots/instance-machine.png)
+
+![EC2 Instance Details](./Screenshots/ec2-instance-details.png)
