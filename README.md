@@ -31,3 +31,11 @@ This project creates AWS infrastructure using Terraform.
 ## Architecture Flow
 
 VPC → Subnet → Internet Gateway → Route Table → Security Group → EC2
+
+
+
+## AWS Console Output
+
+![EC2 Instance Created](Screenshot/ec2-instance-created.png)
+
+![EC2 Instance Details](Screenshot/ec2-instance-details.png)
