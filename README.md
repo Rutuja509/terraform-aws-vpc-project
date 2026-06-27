@@ -34,10 +34,12 @@ VPC → Subnet → Internet Gateway → Route Table → Security Group → EC2
 
 
 
-## AWS Console Output
+### 3. AWS EC2 Console
 
-## AWS Console Output
+![AWS EC2 Console](images/project-aws-con.png)
 
-![Instance Machine](./Screenshots/instance-machine.png)
+---
 
-![EC2 Instance Details](./Screenshots/ec2-instance-details.png)
+### 4. EC2 Instance Details
+
+![EC2 Instance Details](images/project-instance-id.png)
